@@ -1,0 +1,6 @@
+#!/bin/bash
+
+dpkg -i /tmp/pgsql/*.deb
+dpkg -i /tmp/pgsql/*.deb
+
+exit 0
